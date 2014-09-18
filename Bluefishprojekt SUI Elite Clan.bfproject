@@ -1,7 +1,8 @@
 c2e.convert_special: 0
 e2c.convert_num: 0
 openfiles: /Users/simonschuler/Documents/gitHub/SUI-Elite-Clan.github.io/README.md:0:0:0:
-openfiles: /Users/simonschuler/Documents/gitHub/SUI-Elite-Clan.github.io/Index.html:180:0:1:
+openfiles: /Users/simonschuler/Documents/gitHub/SUI-Elite-Clan.github.io/Index.html:32:0:1:
+openfiles: /Users/simonschuler/Documents/gitHub/SUI-Seniors/index.html:966:619:0:
 snr_recursion_level: 5
 convertcolumn_horizontally: 0
 adv_open_matchname: 0
@@ -13,7 +14,7 @@ view_left_panel: 1
 default_mime_type: text/plain
 e2c.convert_xml: 1
 c2e.convert_iso: 0
-opendir: file:///Users/simonschuler/Documents/gitHub/SUI-Elite-Clan.github.io
+opendir: file:///Users/simonschuler/Documents/gitHub/SUI-Seniors
 wrap_text_default: 1
 bookmarks_filename_mode: 0
 snr_casesens: 0
@@ -32,6 +33,7 @@ ssearch_regex: 0
 e2c.convert_iso: 0
 ssearch_casesens: 0
 recent_files: file:///Users/simonschuler/Documents/gitHub/SUI-Elite-Clan.github.io/README.md
+recent_files: file:///Users/simonschuler/Documents/gitHub/SUI-Seniors/index.html
 snr_replacetype: 0
 savedir: file:///Users/simonschuler/Documents/gitHub/SUI-Elite-Clan.github.io
 spell_check_default: 1
@@ -67,6 +69,7 @@ filegloblist: *.c
 filegloblist: *
 recent_dirs: file:///Users/simonschuler
 recent_dirs: file:///Users/simonschuler/Documents/gitHub/SUI-Elite-Clan.github.io
+recent_dirs: file:///Users/simonschuler/Documents/gitHub/SUI-Seniors
 fb_focus_follow: 1
 ssearch_unescape: 0
 htmlbar_view: 1

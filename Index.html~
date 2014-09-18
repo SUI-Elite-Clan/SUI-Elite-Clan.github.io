@@ -2,14 +2,21 @@
 <html lang="de">
    <head>
     <meta charset="utf-8">
+    <link rel="stylesheet" href="stylesheet.css" type="text/css">
     <title>SUI Elite Clan</title>
    </head>
       <body>
       <h1>SUI Elite Clan</h1>
+      <nav>      
       <ul>
-      <nav>Home</nav>
+        <li>Home</li>
+        <li>News</li>
+        <li>Events</li>
+        <li>Member</li>
+        <li>Videos</li>
       </ul>
-      <article>Willkommen auf der Hompage der SUI Elite Senioren</article>
+      </nav>
+      <article>Willkommen auf der Hompage des SUI Elite Clan "Seniors".</article>
       <article>Auf dieser Seite findet Ihr alle wichtigen Infos zu uns. </article>
       </body>
 </html>
