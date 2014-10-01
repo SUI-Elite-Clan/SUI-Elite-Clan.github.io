@@ -5,14 +5,12 @@
     <link rel="stylesheet" href="stylesheet.css" type="text/css">    
     <title>SUI Elite Crew</title>
    </head>
-      <body>
-      <center>
+   <body>
       <h1>SUI Seniors</h1>
       <nav>
-      	<center>
       	Home / News / Events / Member / Videos
       </nav>
       <article>Willkommen auf der Hompage des SUI Elite Clan "Seniors".</article>
       <footer>Infos</footer>
-      </body>
+   </body>
 </html>
