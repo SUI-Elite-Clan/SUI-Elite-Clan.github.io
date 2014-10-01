@@ -3,14 +3,26 @@
    <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="stylesheet.css" type="text/css">    
-    <title>SUI Elite Crew</title>
+    <title>SUI Seniors</title>
    </head>
    <body>
-      <h1>SUI Seniors</h1>
+   <div id="container">
+      <header>
+      		<h1>SUI Seniors</h1>
+      </header>
       <nav>
-      	Home / News / Events / Member / Videos
+      	<ul>
+      	<li class="active"><a href="Index.html">Home</a></li>
+      	<li><a href="news.html">News</a></li>
+      	<li><a href="events.html">Events</a></li>
+      	<li><a href="member.html">Member</a></li>
+      	<li><a href="videos.html">Videos</a></li>
+      	</ul>
       </nav>
-      <article>Willkommen auf der Hompage des SUI Elite Clan "Seniors".</article>
-      <footer>Infos</footer>
+      <article>Willkommen auf der Homepage der SUI Elite Crew "Seniors".
+      </article>
+      <footer>Infos:
+      </footer>
+  	</div>
    </body>
 </html>
